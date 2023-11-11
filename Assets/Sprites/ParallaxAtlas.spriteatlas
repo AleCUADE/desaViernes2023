@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ParallaxAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 124ed756528c63240a71874b77800a1c, type: 3}
+    - {fileID: 21300000, guid: b5ab9e96dba679c4687448c5c669b54e, type: 3}
+    - {fileID: 21300000, guid: f610f54bcda16ea4097576e584030e8f, type: 3}
+    - {fileID: 21300000, guid: efaf4ba2bd571b34f88bb19de3d7b7bf, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: efaf4ba2bd571b34f88bb19de3d7b7bf, type: 3}
+  - {fileID: 21300000, guid: 124ed756528c63240a71874b77800a1c, type: 3}
+  - {fileID: 21300000, guid: b5ab9e96dba679c4687448c5c669b54e, type: 3}
+  - {fileID: 21300000, guid: f610f54bcda16ea4097576e584030e8f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "Monta\xF1as"
+  - Arboles Cercanos
+  - Arboles Lejanos
+  - Cielo
+  m_RenderDataMap: {}
+  m_Tag: ParallaxAtlas
+  m_IsVariant: 0
